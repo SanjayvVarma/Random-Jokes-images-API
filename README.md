@@ -40,4 +40,4 @@
 
 ## Running the Server
 
-To start the server, run `npm start`. The server will be up and running at port 4000.
+To start the server, run `npm start`. The server will be up and running at port 8000.
